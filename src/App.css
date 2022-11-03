@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+hr {
+	height: 6px;
+	border: 1px;
+	color: red;
+	background-color: red;
+	} 
+.hr-2 {
+	height: 4px;
+	border: 1px;
+	color: orange;
+	background-color: orange;
+	} 
+
+.container{
+  margin: 4px auto;
+  width: 100px;
+}
+
+.list{
+    width: 350px;
+    margin: 4px auto;
+}
